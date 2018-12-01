@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840524278006",
+    "firebase_url": "https://estaciogiancarloexam2.firebaseio.com",
+    "project_id": "estaciogiancarloexam2",
+    "storage_bucket": "estaciogiancarloexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840524278006:android:33b31c9098ae83d8",
+        "android_client_info": {
+          "package_name": "giancarlo.estacio.com.estaciogiancarloexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840524278006-3gb7hl5un8p4ethmue2caab9c66545us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "giancarlo.estacio.com.estaciogiancarloexam2",
+            "certificate_hash": "22cec65a899a7903643605e91b1e9c837671a91a"
+          }
+        },
+        {
+          "client_id": "840524278006-pp8hluook29i1tokk9hhl0i9kc2r0fq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01eUuaXPOFpMMc0G_p0txqz-FUdT_588"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840524278006-pp8hluook29i1tokk9hhl0i9kc2r0fq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
